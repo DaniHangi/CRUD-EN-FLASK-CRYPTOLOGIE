@@ -1,0 +1,10 @@
+Utilisateur	e	n
+Alice	17	3457
+Bob	11	2987
+Charlie	3	2047
+
+
+d = k * n / e + 1
+  = 
+
+k = 
